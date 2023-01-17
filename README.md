@@ -6,7 +6,7 @@
 
 - 📫 Voici mon adresse mail perso **tom.noel@atib.network**
 
-- ⚡ Préfere les jeux d'aventures multijoueurs.
+- ⚡ Développe des software OpenSource en HTML/CSS/PHP/MYSQL.
 
 ## 🚀 Langages et outils
 
