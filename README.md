@@ -15,5 +15,5 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-    <img src="https://cdn.discordapp.com/attachments/1042759886120964096/1065037144315408504/image.png"/>
+    <img width="50" src="https://cdn.discordapp.com/attachments/1042759886120964096/1065037144315408504/image.png"/>
 </p>
