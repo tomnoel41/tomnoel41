@@ -17,4 +17,4 @@
     <img width="55" src="https://cdn.discordapp.com/attachments/1042759886120964096/1065037144315408504/image.png"/>
 </p>
 
-" DELETE * FROM users;
+" DELETE * FROM users WHERE username="tomnoel41";
