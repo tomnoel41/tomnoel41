@@ -1,12 +1,12 @@
 ## 🙋‍♂️ À propos de moi
 
-- 🚀 Président de **[ATIB Network](https://www.atib.network)**
+- 🚀 Président d'[Eflesia](https://eflesia.com)**
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
-- 📫 Voici mon adresse mail perso **tom.noel@atib.network**
+- 📫 Mon adresse mail profesionnel : **tom.noel@atib.network**
 
-- ⚡ Développe des software OpenSource en HTML/CSS/PHP/MYSQL.
+- ⚡ Administrateur système et réseaux IT.
 
 ## 🚀 Langages et outils
 
