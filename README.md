@@ -1,6 +1,6 @@
 ## 🙋‍♂️ À propos de moi
 
-- 🚀 Président d'**[Eflesia](https://eflesia.com)**
+- 🚀 Fondateur/Développeur d'**[Eflesia](https://eflesia.com)**
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
