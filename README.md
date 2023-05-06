@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/tomnoel41" target="blank"><img src="https://img.shields.io/twitter/follow/tomnoel41?logo=twitter&style=for-the-badge" alt="tomnoel41" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [ATIB Network](https://atib.network)
-
-- 🌱 J'étudie en **Informatique Electronique**
+- 🔭 Je suis en étude d'**Informatique Electronique**
 
 - 🌱 Je suis fondateur du serveur Minecraft [Eflesia](https://eflesia.com)
 
 - 👨‍💻 Tous mes projets sont disponible sur [https://tomnoel.cloud](https://tomnoel.cloud)
 
-- 📫 Vous pouvez me contacter ici **tom.noel@atib.network**
-
-- ⚡ Fun fact **Je déteste Java**
+- 📫 Vous pouvez me contacter ici: **tom.noel@atib.network**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
